@@ -1,0 +1,17 @@
+{
+  "name": "YTbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivi7865",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^0.14.4",
+    "pushbullet": "^1.4.3",
+    "rimraf": "^2.4.2",
+    "youtube-dl": "^1.10.5"
+  }
+}
